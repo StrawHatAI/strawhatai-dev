@@ -1,13 +1,16 @@
 ﻿# StrawHat AI Development Repository
 
-
 Ubuntu --> 
 Ollama - LLM Backend --> 
 WebUI - Multi-LLM front end --> 
 LiteLLM - LLM Proxy -->
 http://localhost:8080/c/(API_KEY)
 
-Cline AI Agent - Cursor MCP manager
+Claude Desktop + MCP Servers = Best coding AI agent ever. https://claude.ai/download
+
+First Download Claude Desktop, then install claude-dev-tools using instructions in readme
+
+Cline AI Agent - Cursor MCP manager - VS Code Extension. Turn-key AI Agent.
 
 Docker Desktop for easy hosting environment - https://docs.docker.com/desktop/setup/install/windows-install/ 
 
