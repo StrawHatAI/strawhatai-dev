@@ -8,11 +8,11 @@ http://localhost:8080/c/(API_KEY)
 
 Claude Desktop + MCP Servers = Best coding AI agent ever. https://claude.ai/download
 
+First Download Claude Desktop, then install claude-dev-tools using instructions in readme
+
 Google AI Studio can watch videos and summarize them free. It can also help you strategize how to approach complex problems.
 
 https://aistudio.google.com/prompts/new_chat
-
-First Download Claude Desktop, then install claude-dev-tools using instructions in readme
 
 Cline AI Agent - Cursor MCP manager - VS Code Extension. Turn-key AI Agent.
 
