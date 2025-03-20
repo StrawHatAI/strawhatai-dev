@@ -1,12 +1,11 @@
 ﻿# StrawHat AI Development Repository
+*Tested and working*
 
 Install Ubuntu via container, WSL or USB install --><br>
 Ollama - LLM Backend (local host LLMs) https://ollama.com/ --> <br>
 Open-WebUI - (Multi-LLM local front end) https://openwebui.com/ <br>
 Download LLMs from https://ollama.com/search --> <br>
 Congrats, You should be live at: http://localhost:8080/c/(API_KEY)<br>
-LiteLLM - LLM Proxy (host LLMs online) --><br>
-Static IP --> Hostinger VPS <br>
 
 Claude Desktop + MCP Servers = Best coding AI agent ever. https://claude.ai/download
 
@@ -31,3 +30,8 @@ AI Toolkit for VS Code - https://marketplace.visualstudio.com/items/?itemName=ms
 What is AI Toolkit?
 
 Multi-LLM chat by Microsoft - AI Toolkit for Visual Studio Code is an extension to help developers and AI engineers to easily build AI apps and agents through developing and testing with generative AI models locally or in the cloud. AI Toolkit supports most genAI models on the market.
+
+*Untested*
+
+LiteLLM - LLM Proxy (host LLMs online) --><br>
+Static IP --> Hostinger VPS <br>
