@@ -22,5 +22,6 @@ Docker for fast deploy - https://marketplace.visualstudio.com/items/?itemName=ms
 
 AI Toolkit for VS Code - https://marketplace.visualstudio.com/items/?itemName=ms-windows-ai-studio.windows-ai-studio
 
-What is AI Toolkit
+What is AI Toolkit?
+
 Multi-LLM chat by Microsoft - AI Toolkit for Visual Studio Code is an extension to help developers and AI engineers to easily build AI apps and agents through developing and testing with generative AI models locally or in the cloud. AI Toolkit supports most genAI models on the market.
