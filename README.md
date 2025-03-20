@@ -9,8 +9,10 @@ http://localhost:8080/c/(API_KEY)
 
 Cline AI Agent - Cursor MCP manager
 
-Docker Desktop for easy hosting environment - https://docs.docker.com/desktop/setup/install/windows-install/
+Docker Desktop for easy hosting environment - https://docs.docker.com/desktop/setup/install/windows-install/ 
+
 https://docs.docker.com/desktop/setup/install/mac-install/
+
 https://docs.docker.com/desktop/setup/install/linux/
 
 Docker for fast deploy - https://marketplace.visualstudio.com/items/?itemName=ms-azuretools.vscode-docker
