@@ -1,10 +1,12 @@
 ﻿# StrawHat AI Development Repository
 
-Ubuntu -->
-Ollama - LLM Backend --> 
-Open-WebUI - Multi-LLM front end Download LLMs from https://ollama.com/search --> 
-LiteLLM - LLM Proxy -->
-http://localhost:8080/c/(API_KEY)
+Install Ubuntu via container, WSL or USB install --><br>
+Ollama - LLM Backend (local host LLMs) https://ollama.com/ --> <br>
+Open-WebUI - (Multi-LLM local front end) https://openwebui.com/ <br>
+Download LLMs from https://ollama.com/search --> <br>
+Congrats, You should be live at: http://localhost:8080/c/(API_KEY)<br>
+LiteLLM - LLM Proxy (host LLMs online) --><br>
+Static IP --> Hostinger VPS <br>
 
 Claude Desktop + MCP Servers = Best coding AI agent ever. https://claude.ai/download
 
