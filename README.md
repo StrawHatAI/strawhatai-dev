@@ -1,8 +1,8 @@
 ﻿# StrawHat AI Development Repository
 
-Ubuntu --> 
+Ubuntu -->
 Ollama - LLM Backend --> 
-WebUI - Multi-LLM front end --> 
+Open-WebUI - Multi-LLM front end Download LLMs from https://ollama.com/search --> 
 LiteLLM - LLM Proxy -->
 http://localhost:8080/c/(API_KEY)
 
